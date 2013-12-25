@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/pointer.png</file>
+        <file>images/linepointer.png</file>
+        <file>images/textpointer.png</file>
+        <file>images/bold.png</file>
+        <file>images/italic.png</file>
+        <file>images/underline.png</file>
+        <file>images/floodfill.png</file>
+        <file>images/bringtofront.png</file>
+        <file>images/delete.png</file>
+        <file>images/sendtoback.png</file>
+        <file>images/linecolor.png</file>
+        <file>images/background1.png</file>
+        <file>images/background2.png</file>
+        <file>images/background3.png</file>
+        <file>images/background4.png</file>
+        <file>images/linepointer2.png</file>
+        <file>images/decision.png</file>
+        <file>images/handbook.png</file>
+        <file>images/handbook_green.png</file>
+        <file>images/handbook_yellow.png</file>
+        <file>images/level0.png</file>
+        <file>images/level1.png</file>
+        <file>images/level2.png</file>
+        <file>images/storage.png</file>
+        <file>images/arrow_down.png</file>
+        <file>images/arrow_left.png</file>
+        <file>images/arrow_right.png</file>
+        <file>images/arrow_up.png</file>
+        <file>images/graybox.png</file>
+        <file>defaults.json</file>
+    </qresource>
+</RCC>
